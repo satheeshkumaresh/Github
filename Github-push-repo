@@ -1,0 +1,10 @@
+Github new repository and push my code:
+======================================
+
+git init
+git add .
+git commit -m "Your commit message here"
+git branch <branch-name>
+git checkout <branch-name>
+git remote add origin <paste-the-copied-https-url-here>
+git push -u origin <branch-name>
